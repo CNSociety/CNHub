@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(255, 147, 197);
+}
+
+@media (min-width: 920) {
+    .post-image {
+        max-width: calc(100%/3 - 150);
+    }
+}
+
+.margin-body{
+    margin-top: 60px;
+}
+
+body header nav {
+    color: white;
+}
+
+margin-cards{
+    margin: 10px;
+}
+
+.card {
+    margin: 20px;
+}
